@@ -10,6 +10,8 @@
 * 배치 순서 : k1 - m - k2
 * 변위 : 좌에서 우측으로 +x 방향
 
+![](http://www.ux1.eiu.edu/~cfadd/1150-05/Hmwk/Ch13/Images/D13.2a.gif)
+
 ## Analysis
 * + 방향으로 x1 만큼 변위 발생할 때의 합력을 구해보면
 
