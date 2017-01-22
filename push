@@ -2,12 +2,16 @@
 # Update My-Jupyter-Notebooks
 cd /home/dong/github/My-Jupyter-Notebooks
 spawn /usr/bin/git pull
+sleep 1
 spawn /usr/bin/git add --all
-spawn /usr/bin/git commit -m "by push_ipynb.sh"
+sleep 1
+spawn /usr/bin/git commit -m "by push shell script"
+sleep 1
 spawn /usr/bin/git push -u origin master
+sleep 1
 expect -re "Username for 'https://github.com':"
 sleep 1
-send "dymaxion.kim@gmail.com\n"
+send "dymaxionkim\n"
 #expect -re "Password for 'https://dymaxion.kim@gmail.com@github.com':"
 #sleep 1
 #send "비밀번호\n"
