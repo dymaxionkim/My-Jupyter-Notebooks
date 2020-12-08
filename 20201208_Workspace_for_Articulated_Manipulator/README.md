@@ -4,11 +4,9 @@
 
 ## Script
 
-* [WORKSPACE_2-DOF.ipynb](WORKSPACE_2-DOF.ipynb)
+* [WORKSPACE.ipynb](WORKSPACE.ipynb)
 
-![](CASE_2-DOF.png)
+![](CASE01.svg)
+![](CASE02.svg)
+![](CASE02.svg)
 
-
-* [WORKSPACE_3-DOF.ipynb](WORKSPACE_3-DOF.ipynb)
-
-![](CASE_3-DOF.png)
